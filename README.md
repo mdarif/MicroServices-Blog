@@ -69,6 +69,9 @@ With Docker, you can manage your infrastructure in the same ways you manage your
 
 ![Kubernetes Terminologies](assets/images/k8s-terms.jpeg)
 
+### Kubernetes Config Files
+![Kubernetes Config Files](assets/images/k8-config-file.jpeg))
+
 ## React.js
 
 ## Next.js
