@@ -88,6 +88,16 @@ With Docker, you can manage your infrastructure in the same ways you manage your
 #### Method 2
 ![Update Image Method 2](assets/images/k8-image-update-method-2.jpeg)
 
+### Kubernetes Service
+
+An abstract way to expose an application running on a set of Pods as a network service.
+
+With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
+
+![Kubernetes Service](assets/images/k8-services-types.jpeg)
+![Cluster IP Service](assets/images/cluster-ip-service.jpeg)
+![Load Balancer Service](assets/images/load-balancer-service.jpeg)
+
 ## React.js
 
 ## Next.js
