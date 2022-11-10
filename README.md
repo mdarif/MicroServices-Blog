@@ -81,8 +81,12 @@ With Docker, you can manage your infrastructure in the same ways you manage your
 ![Deployment Commands](assets/images/k8-deployment-commands.jpeg)
 
 ### Update the Image
+
 #### Method 1
 ![Update Image Method 1](assets/images/k8-image-update-method-1.jpeg)
+
+#### Method 2
+![Update Image Method 2](assets/images/k8-image-update-method-2.jpeg)
 
 ## React.js
 
