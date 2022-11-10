@@ -70,7 +70,19 @@ With Docker, you can manage your infrastructure in the same ways you manage your
 ![Kubernetes Terminologies](assets/images/k8s-terms.jpeg)
 
 ### Kubernetes Config Files
-![Kubernetes Config Files](assets/images/k8-config-file.jpeg))
+![Kubernetes Config Files](assets/images/what-is-k8-config-file.jpeg)
+
+![Sample Kubernetes Config File](assets/images/k8s-config-file.jpeg)
+
+### Kubernetes Commands
+![Kubernetes Commands](assets/images/k8s-pods-command.jpeg)
+
+### Kubernetes Deployment Commands
+![Deployment Commands](assets/images/k8-deployment-commands.jpeg)
+
+### Update the Image
+#### Method 1
+![Update Image Method 1](assets/images/k8-image-update-method-1.jpeg)
 
 ## React.js
 
